@@ -34,12 +34,18 @@
     "IDEVersion": "2023.11.0.121",
   },
   "resources": [
-    {"id":{"name":"O_SystemManager","path":"objects/O_SystemManager/O_SystemManager.yy",},},
+    {"id":{"name":"S_Gladius","path":"sprites/S_Gladius/S_Gladius.yy",},},
+    {"id":{"name":"O_TestDrawHealthBar","path":"objects/O_TestDrawHealthBar/O_TestDrawHealthBar.yy",},},
+    {"id":{"name":"R_Main","path":"rooms/R_Main/R_Main.yy",},},
     {"id":{"name":"S_HealthBar","path":"sprites/S_HealthBar/S_HealthBar.yy",},},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"id":{"name":"S_VikingSword","path":"sprites/S_VikingSword/S_VikingSword.yy",},},
+    {"id":{"name":"S_Spatha","path":"sprites/S_Spatha/S_Spatha.yy",},},
+    {"id":{"name":"O_SystemManager","path":"objects/O_SystemManager/O_SystemManager.yy",},},
+    {"id":{"name":"R_Test","path":"rooms/R_Test/R_Test.yy",},},
   ],
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"R_Main","path":"rooms/R_Main/R_Main.yy",},},
+    {"roomId":{"name":"R_Test","path":"rooms/R_Test/R_Test.yy",},},
   ],
   "templateType": "game",
   "TextureGroups": [

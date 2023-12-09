@@ -16,5 +16,11 @@
     {"name":"확장","order":14,"path":"folders/확장.yy",},
     {"name":"Particle Systems","order":15,"path":"folders/Particle Systems.yy",},
   ],
-  "ResourceOrderSettings": [],
+  "ResourceOrderSettings": [
+    {"name":"S_Gladius","order":1,"path":"sprites/S_Gladius/S_Gladius.yy",},
+    {"name":"R_Main","order":1,"path":"rooms/R_Main/R_Main.yy",},
+    {"name":"S_VikingSword","order":3,"path":"sprites/S_VikingSword/S_VikingSword.yy",},
+    {"name":"S_Spatha","order":2,"path":"sprites/S_Spatha/S_Spatha.yy",},
+    {"name":"O_SystemManager","order":1,"path":"objects/O_SystemManager/O_SystemManager.yy",},
+  ],
 }
