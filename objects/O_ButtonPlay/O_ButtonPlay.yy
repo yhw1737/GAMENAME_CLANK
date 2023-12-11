@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "O_SystemManager",
+  "name": "O_ButtonPlay",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
   ],
@@ -11,7 +11,10 @@
     "name": "오브젝트",
     "path": "folders/오브젝트.yy",
   },
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "O_Button",
+    "path": "objects/O_Button/O_Button.yy",
+  },
   "persistent": false,
   "physicsAngularDamping": 0.1,
   "physicsDensity": 0.5,
